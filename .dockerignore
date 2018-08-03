@@ -1,4 +1,2 @@
 .git
-docker-gen
-dist
 *.gz
